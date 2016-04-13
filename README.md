@@ -27,8 +27,14 @@ Ou
 ```
 
 ## Referências
-(https://groups.google.com/forum/#!topic/nfephp/7LJWZp2-TWE)
-(http://andredourado.com.br/gerar-pdf-de-um-danfe-a-partir-do-xml-em-php/)
-(https://groups.google.com/forum/#!topic/nfephp/cSYYcuOQoYo)
-(https://github.com/nfephp-org/nfephp/blob/master/exemplos/NFe/4.00testaDanfe.php)
-(https://github.com/nfephp-org/nfephp/blob/master/exemplos/NFe/4.00testaDanfce.php)
+https://groups.google.com/forum/#!topic/nfephp/7LJWZp2-TWE
+
+
+http://andredourado.com.br/gerar-pdf-de-um-danfe-a-partir-do-xml-em-php/
+
+https://groups.google.com/forum/#!topic/nfephp/cSYYcuOQoYo
+
+https://github.com/nfephp-org/nfephp/blob/master/exemplos/NFe/4.00testaDanfe.php
+
+https://github.com/nfephp-org/nfephp/blob/master/exemplos/NFe/4.00testaDanfce.php
+
